@@ -1,4 +1,4 @@
-# Modified-booth-algorithm
+# Modified-booth-algorithm for 16 bit signed numbers 
 
 It can be defined as an algorithm or method of multiplying binary numbers in two’s complement notation. It is a simple method to multiply binary numbers in which multiplication is performed with repeated addition operations by following the booth algorithm. Again this booth algorithm for multiplication operation is further modified and hence, named as modified booth algorithm.
 
